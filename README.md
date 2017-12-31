@@ -1,6 +1,6 @@
-# emily dela cruz
+# before i forget this
 
-This is my [personal site](https://emilydelacruz.com/).
+This is my [personal blog](https://beforeiforgetthis.space/).
 
 ### Special Thanks
 All these folks helped me get my feet off the ground:
@@ -11,4 +11,4 @@ Last update: 2017/12
 Language: English
 Standards: HTML5, CSS3, ES2015, ES6
 Components: ReactJS, Webpack
-Software: VSC, Sketch# before-i-forget-this
+Software: VSC, Sketch
